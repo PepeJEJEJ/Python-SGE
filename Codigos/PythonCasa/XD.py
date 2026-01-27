@@ -1,6 +1,6 @@
 texto = """
  Quicumque hoc legit, stultus est.
-"In omnes mortuos in arbore genealogica tua caco, et si me impelles, in vivos quoque, 
+- "In omnes mortuos in arbore genealogica tua caco, et si me impelles, in vivos quoque, 
 tu, stercus amorphe, maledictus. Te in via deprehendam et pectus tuum malleo conteram, 
 aeger fili canis. Si liberos habes, spero eos aliqua infirmitate corporis vel mentis affici, 
 vel, si id non facit, a curru percuti, sed ne eos mori sinas, totam vitam pati sinas. 
@@ -48,6 +48,6 @@ ut quoties umbram noctu videris,
 me esse putes, te penitus insaniturum, in statum vegetativum casurum solo 
 timore quem praesentia mea tibi affert. Si te sanaverint, non iterum te persequar. 
 Morieris senex, solus, sine testiculis, sine cute, et exspecta dum tibi crura abscidam, 
-stercus."
+stercus." -
 """
 print(texto)
