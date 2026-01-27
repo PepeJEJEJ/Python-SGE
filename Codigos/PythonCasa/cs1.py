@@ -1,4 +1,4 @@
-lista = [1, 2, "árbol", 5, 1.5, 6, "a"]
+lista = [1, 2, "pt el q lea", 5, 1.5, 6, "a"]
 
 enteros = []
 
